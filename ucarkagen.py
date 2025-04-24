@@ -104,7 +104,7 @@ def ucarkagen(input, nusga, output):
         data = yaml.safe_load(file)
 
     # Copy the template
-    shutil.copy(nusga, output)
+    output = shutil.copy(nusga, output)
 
     # Open docx
     doc = Document(output)
