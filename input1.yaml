@@ -1,0 +1,36 @@
+men:
+  ady: Plany
+  familiyasy: Planyýew
+  ata-ady: Planyýewiç
+  doglan-guni: 01.01.1990ý
+  doglan-yeri: Aşgabat ş.
+  milleti: türkmen
+  bilimi: ýokary
+  okuw-mekdebi: 2013-nji ýyl, ABŞ MIT
+  hunari: Software Engineer
+  alym-dereje: ýok
+  dil: türkmen, rus, iňlis
+  sylag: ýok
+  dasary-yurt: ýok
+  mejlis-agza: ýok
+  is-yerler:
+    - wagty: 2024ý ýanwar - 2024ý dekabr
+      salgy: Soft Inc, web-dev
+    - wagty: 2025ý ýanwar - 2025ý dekabr
+      salgy: Game Inc, game developer
+  oy-salgysy: Earth Orbit, ISS
+  telefon: +1234567890 (home)
+
+garyndas:
+  - faa: Meredow Meret Meredowiç
+    dereje: atasy
+    doglan-yyly: 1900
+    doglan-yeri: Aşgabat ş.
+    is-yeri: Proffessor, ABŞ MIT
+    oy-salgysy: Earth Orbit, ISS
+  - faa: Meredow Meret Meredowiç
+    dereje: kakasy
+    doglan-yyly: 1900
+    doglan-yeri: Aşgabat şäheri
+    is-yeri: Proffessor, ABŞ MIT
+    oy-salgysy: Earth Orbit, ISS
