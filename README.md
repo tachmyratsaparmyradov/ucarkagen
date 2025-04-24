@@ -57,12 +57,17 @@ garyndas:
 ```
 
 ## Nusga
-Nusga ".docx" faýly bolmaly. Ondaky bellikleriň ählisi '%' bilen başlamaly. Bellikleriň üç görnüşi bar - prefiksler boýunça:
-* "%men-" - yaml faýlyndaky "men" maglumatlar bilen doldurylýar. Meselem:
+Nusga ".docx" faýly bolmaly. Ondaky bellikleriň ählisi **'%'** bilen başlamaly. Bellikleriň üç görnüşi bar - prefiksler boýunça:
+* **"%men-"** - yaml faýlyndaky "men" maglumatlar bilen doldurylýar. Meselem:
   ``` yaml
   men:
     ady: Plany
   ```
-  Bu ýerde ".docx" faýlyndan "%men-ady" belligi gözlener we tapsa ýeri "Plany" bilen çalşylar
-* "%men-is-yerler-" - yaml faýlyndaky "men"-iň içindäki "is-yerler" sanawy bilen doldurylýar. Bu bellikleriň hemmesi hökman diňe bir tablisada ýerleşmeli
-* "%garyndas-" - yaml faýlyndaky "garyndas" sanawy bilen doldurylýar. Bu bellikleriň hemmesi hökman diňe bir tablisada ýerleşmeli
+  Bu ýerde *".docx"* faýlyndan *"%men-ady"* belligi gözlener we tapsa ýeri *"Plany"* bilen çalşylar
+* **"%men-is-yerler-"** - yaml faýlyndaky *"men"*-iň içindäki *"is-yerler"* sanawy bilen doldurylýar. Bu bellikleriň hemmesi hökman diňe bir tablisada ýerleşmeli
+* **"%garyndas-"** - yaml faýlyndaky *"garyndas"* sanawy bilen doldurylýar. Bu bellikleriň hemmesi hökman diňe bir tablisada ýerleşmeli
+
+## Talaplar
+2 modul talap edilýär:
+1. [PyYAML](https://pypi.org/project/PyYAML/)
+2. [python-docx](https://pypi.org/project/python-docx/)
